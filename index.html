@@ -1,0 +1,63 @@
+---
+title: Home
+layout: default
+background: '/img/bg-index.jpg'
+---
+
+<!-- Home Intro
+================================================== -->
+{% if page.url == "/" %}
+<style>
+  .hero_image {
+    padding: 5rem 5rem;
+    background-color: #eee;
+  }
+</style> 
+<div class="rounded mb-5 hero_image">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-6">
+      <h1 class="font-weight-bold mb-4 serif-font">What Researca can do to help you become a top tier expert.</h1>
+      <p class="lead mb-4">We built Researca because we were expert in our fields with one obsession, always offering the best and most efficient solutions for our clients.</p>
+      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">More info</a>
+    </div>
+    <div class="col-md-6 text-right pl-0 pl-lg-4">
+      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/photo-researca-toptier_hero.avif">      
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- Featured
+================================================== -->
+<section class="row">
+  {% for post in site.posts %}
+      {% if post.featured == true %}
+          <div class="col-md-4 mb-5">
+          {% include postbox.html %}
+          </div>
+      {% endif %}
+  {% endfor %}
+  </div>
+</section>
+
+<!-- Posts List with Sidebar (except featured)
+================================================== -->
+<section class="row">
+  <div class="col-sm-12">
+    <div class="row">
+      {% for post in paginator.posts %}
+      {% unless post.featured == true %}
+      <div class="col-md-4 mb-5">
+        {% include postbox.html %}
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+          {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+</section>
