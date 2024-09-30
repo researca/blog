@@ -1,13 +1,13 @@
 title: "Researca | Blog"
 email: wowthemesnet@gmail.com
 timezone: UTC
-baseurl: "/blog"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/researca.svg'
 favicon: 'assets/images/favicon.ico'
 author: Constant
 paginate: 30
-disqus: 'demowebsite'
+#disqus: 'demowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
