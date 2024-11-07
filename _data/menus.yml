@@ -21,8 +21,8 @@ footermenu:
 - title: Home
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: Legal
+  url: "legal/"
 
 - title: Contact
   url: "contact/"

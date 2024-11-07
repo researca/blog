@@ -5,33 +5,39 @@ permalink: /terms-of-use
 comments: false
 ---
 
-### Information that is gathered from visitors
-In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit.
+# Notice
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+All the software for Researca is developped by **Telary**, parts of the code are open-source.
 
-Where registration is required, the visitor's email and a username will be stored on the server.
+**Telary** is a software and data engineering company. (SIREN 983358243)
 
-### How the Information is used
-The information is used to enhance the vistor's experience when using the website to display personalised content and possibly advertising.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+# All our softwares
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+* no phishing
+* no illegal stuff
+* no porn stuff
 
-### Visitor Options
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in e-mail that you receive.
+# Software
 
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+# Obtaining credits
 
-### Cookies
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
+# Spending credits
 
-3rd party advertising companies may also use cookies for tracking purposes.
+# Researca app
 
-### Google Ads
-Google, as a third party vendor, uses cookies to serve ads.
+Access to some feature of researca are limited to having some credits.
 
-Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+# Researca browser extension
 
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+__The browser extension is supposed to be used only for 2 use cases:__
+* Save articles in Researca webapp
+* Save websites that you want to track at a later time in Researca webapp
+
+# Changes to the Terms
+
+We may change the terms espercially in the beginning, we will send you an email with a quick summary of the changes done.
+
+# Limit of liability
+
+If you loose money as a result of using Researca or by any issues linked to Researca being inaccessible, or the data corrupted, any compensation is limited to the amount of money you paid to Researca.
