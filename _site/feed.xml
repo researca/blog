@@ -1,88 +1,628 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/affiliates-jekyll-theme/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/affiliates-jekyll-theme/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-09-26T15:06:46+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/feed.xml</id><title type="html">Affiliates</title><author><name>Sal</name></author><entry><title type="html">Must read for data engineers</title><link href="http://localhost:4000/affiliates-jekyll-theme/must-read-for-data-engineers/" rel="alternate" type="text/html" title="Must read for data engineers" /><published>2024-09-26T00:00:00+00:00</published><updated>2024-09-26T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/must-read-for-data-engineers</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/must-read-for-data-engineers/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en_us"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en_us" /><updated>2024-11-08T08:58:21+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Researca | Blog</title><author><name>Constant</name></author><entry><title type="html">How Researca, an RSS Aggregator, Can Help You Fight Information Overload (And Why It’s Better Than Social Networks)</title><link href="http://localhost:4000/information-overload/" rel="alternate" type="text/html" title="How Researca, an RSS Aggregator, Can Help You Fight Information Overload (And Why It’s Better Than Social Networks)" /><published>2024-11-07T00:00:00+00:00</published><updated>2024-11-07T00:00:00+00:00</updated><id>http://localhost:4000/information-overload</id><content type="html" xml:base="http://localhost:4000/information-overload/"><![CDATA[<p>In today’s digital world, we’re constantly bombarded with information, updates, and news — all competing for our attention. Social media platforms, in particular, are designed to capture as much of our time as possible, often leading to overwhelming feeds filled with irrelevant content. <strong>Researca</strong>, a powerful RSS aggregator, offers a solution to combat this information overload, allowing users to stay informed without the distractions and pitfalls of social media. In this post, we’ll explore how Researca can help streamline your information consumption and why it’s a better choice than using social networks for staying up-to-date.</p>
 
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>Sal</name></author><category term="experts" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-3.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-3.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Must read for developpers</title><link href="http://localhost:4000/affiliates-jekyll-theme/must-read-for-developpers/" rel="alternate" type="text/html" title="Must read for developpers" /><published>2024-09-26T00:00:00+00:00</published><updated>2024-09-26T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/must-read-for-developpers</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/must-read-for-developpers/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
+<h2 id="what-is-researca">What is Researca?</h2>
 
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>
+<p>Researca is an RSS aggregator that collects content from various websites, blogs, and news sources into a single, organized feed. Instead of relying on algorithms to determine what content you see (as social media does), <strong>Researca puts you in control</strong>, letting you decide which sources to follow and when to read updates.</p>
 
-<p>12345 789</p>]]></content><author><name>Sal</name></author><category term="experts" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-2.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-2.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Repetition is the key element for learning.</title><link href="http://localhost:4000/affiliates-jekyll-theme/repetition/" rel="alternate" type="text/html" title="Repetition is the key element for learning." /><published>2024-09-26T00:00:00+00:00</published><updated>2024-09-26T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/repetition</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/repetition/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
+<h2 id="how-researca-helps-you-fight-information-overload">How Researca Helps You Fight Information Overload</h2>
 
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>Sal</name></author><category term="experts" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-1.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-1.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Getting more knowledgable every day, without the pain</title><link href="http://localhost:4000/affiliates-jekyll-theme/researca-features/" rel="alternate" type="text/html" title="Getting more knowledgable every day, without the pain" /><published>2024-09-10T00:00:00+00:00</published><updated>2024-09-10T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/researca-features</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/researca-features/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
-
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>Sal</name></author><category term="experts" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-4.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-4.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Some details on the 10K hours to become an expert.</title><link href="http://localhost:4000/affiliates-jekyll-theme/details-10k/" rel="alternate" type="text/html" title="Some details on the 10K hours to become an expert." /><published>2024-09-01T00:00:00+00:00</published><updated>2024-09-01T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/details-10k</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/details-10k/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
-
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>Sal</name></author><category term="10k" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-7.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-7.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Best academic news sources</title><link href="http://localhost:4000/affiliates-jekyll-theme/best-academic-news-sources/" rel="alternate" type="text/html" title="Best academic news sources" /><published>2024-08-12T00:00:00+00:00</published><updated>2024-08-12T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/best-academic-news-sources</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/best-academic-news-sources/"><![CDATA[<p>This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.</p>
-
-<p>It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.</p>]]></content><author><name>Sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[This is changed. As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-8.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-8.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Must read to better understand the tech industry</title><link href="http://localhost:4000/affiliates-jekyll-theme/must-read-on-tech-industry/" rel="alternate" type="text/html" title="Must read to better understand the tech industry" /><published>2024-07-12T00:00:00+00:00</published><updated>2024-07-12T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/must-read-on-tech-industry</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/must-read-on-tech-industry/"><![CDATA[<p>The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</p>
-
-<p>An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.</p>
-
-<blockquote>
-  <p>It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.</p>
-</blockquote>
-
-<p>The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</p>
-
-<p>As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-9.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-9.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Must read on finance industry</title><link href="http://localhost:4000/affiliates-jekyll-theme/must-read-on-finance-industry/" rel="alternate" type="text/html" title="Must read on finance industry" /><published>2024-06-12T00:00:00+00:00</published><updated>2024-06-12T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/must-read-on-finance-industry</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/must-read-on-finance-industry/"><![CDATA[<p>There are lots of powerful things you can do with the Markdown editor</p>
-
-<p>If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
-
-<p>As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.</p>
-
-<h2 id="special-formatting">Special formatting</h2>
-
-<p>As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:</p>
+<p>Here’s how Researca can become your go-to tool to manage the flood of information without feeling overwhelmed:</p>
 
 <ul>
-  <li><del>strike through</del></li>
-  <li>==highlight==</li>
-  <li>*escaped characters*</li>
+  <li>
+    <p><strong>Curated Content Only</strong>: With Researca, you choose the sources you trust and find valuable. There’s no clutter from irrelevant posts or ads, so you can focus solely on content that matters to you.</p>
+  </li>
+  <li>
+    <p><strong>No Algorithm Bias</strong>: Social networks often use algorithms that prioritize sensational or attention-grabbing content to keep users engaged, leading to “echo chambers” or polarizing content. Researca eliminates this by showing only the posts from your selected sources, so you receive information directly from the source, without any biased filtering.</p>
+  </li>
+  <li>
+    <p><strong>Time-Efficient Reading</strong>: Social networks encourage endless scrolling, but Researca allows you to catch up on the latest updates without getting lost in a time-consuming feed. You can prioritize and bookmark articles, enabling more focused and productive reading sessions.</p>
+  </li>
+  <li>
+    <p><strong>Less Distraction, More Focus</strong>: Social networks mix important updates with personal posts, ads, and notifications, making it challenging to concentrate. Researca’s streamlined interface is purpose-built for information consumption, ensuring you can consume content without unrelated distractions.</p>
+  </li>
 </ul>
 
-<h2 id="writing-code-blocks">Writing code blocks</h2>
+<h2 id="why-researca-is-better-than-social-networks-for-staying-informed">Why Researca is Better Than Social Networks for Staying Informed</h2>
 
-<p>There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, <code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
+<p>Social media was initially designed for personal connections, not as a primary news or information source. Here’s why <strong>Researca is a more reliable alternative</strong>:</p>
 
-<pre><code>.my-link {
-    text-decoration: underline;
-}
-</code></pre>
+<ul>
+  <li>
+    <p><strong>Control Over Content Sources</strong>: Unlike social media, which relies on user-generated content, Researca allows you to pull directly from reputable publishers, trusted industry blogs, or experts in your field, ensuring a higher standard of information quality.</p>
+  </li>
+  <li>
+    <p><strong>Reduced Mental Strain</strong>: Constantly switching between ads, personal updates, and news articles can mentally exhaust readers. Researca’s focused interface is designed to support productive reading without this mental fatigue.</p>
+  </li>
+  <li>
+    <p><strong>Privacy-Focused</strong>: Social networks track your activities to refine their algorithms and serve targeted ads. Researca doesn’t track your reading habits or bombard you with ads, offering a more privacy-conscious way to stay informed.</p>
+  </li>
+  <li>
+    <p><strong>Flexible and Customizable</strong>: With Researca, you can organize content based on your interests, grouping sources into categories or tags. This level of customization makes it easier to access what’s most relevant, a feature social networks rarely offer.</p>
+  </li>
+</ul>
 
-<p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
+<h2 id="conclusion">Conclusion</h2>
 
-<p><img src="/affiliates-jekyll-theme/assets/images/3.jpg" alt="walking" /></p>
+<p>Researca offers another approach to managing the overwhelming flow of information. By allowing you to customize and control your feed without algorithms or distractions, Researca helps you stay focused, save time, and reduce mental fatigue. If you’re looking for a smarter way to keep up with news and industry updates, it’s time to consider Researca as your go-to RSS aggregator.</p>
 
-<h2 id="reference-lists">Reference lists</h2>
+<h2 id="bonus-cool-facts-about-rss">Bonus: Cool Facts About RSS</h2>
 
-<p>The quick brown jumped over the lazy.</p>
+<p>Did you know that <strong>RSS (Really Simple Syndication)</strong> has been around since 1999? Although it’s an older technology, RSS remains one of the most efficient ways to follow content directly from the source. Despite the rise of social media, RSS continues to be used by digital enthusiasts and professionals who value curated, distraction-free information!</p>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[In today’s digital world, we’re constantly bombarded with information, updates, and news — all competing for our attention. Social media platforms, in particular, are designed to capture as much of our time as possible, often leading to overwhelming feeds filled with irrelevant content. Researca, a powerful RSS aggregator, offers a solution to combat this information overload, allowing users to stay informed without the distractions and pitfalls of social media. In this post, we’ll explore how Researca can help streamline your information consumption and why it’s a better choice than using social networks for staying up-to-date.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-13.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-13.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Example of configuration in Researca</title><link href="http://localhost:4000/organisation-example/" rel="alternate" type="text/html" title="Example of configuration in Researca" /><published>2024-10-16T00:00:00+00:00</published><updated>2024-10-16T00:00:00+00:00</updated><id>http://localhost:4000/organisation-example</id><content type="html" xml:base="http://localhost:4000/organisation-example/"><![CDATA[<p>Researca may be a bit complex but it’s important to understand how you can freely manage the way you get your new knowledge, in this post I will try to explain how I use Researca and what is my “optimized” way of setuping the tool.</p>
 
-<p>Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.</p>
+<h1 id="domains">Domains</h1>
 
-<h2 id="full-html">Full HTML</h2>
+<p>Usually I go with 1 domain per really broad topic. For example I want to stay up to date professionnaly on tech topics:</p>
 
-<p>Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:</p>
+<ul>
+  <li>Data engineering</li>
+  <li>Tech ecosystem</li>
+  <li>Django</li>
+  <li>Python</li>
+  <li>Some web frameworks</li>
+</ul>
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[There are lots of powerful things you can do with the Markdown editor]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-11.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-11.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">How Researca helps consulting business</title><link href="http://localhost:4000/affiliates-jekyll-theme/consulting-business/" rel="alternate" type="text/html" title="How Researca helps consulting business" /><published>2024-05-11T00:00:00+00:00</published><updated>2024-05-11T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/consulting-business</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/consulting-business/"><![CDATA[<p>You’ll find this post in your <code>_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code>jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated. Something.</p>
+<p>But I also want to stay up to date, on some personnal finance, investigative journalism orgs and I enjoy gardening and sustainability blogs.</p>
 
-<p>To add new posts, simply add a file in the <code>_posts</code> directory that follows the convention <code>YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p>So I would go with the following domains:</p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<ul>
+  <li>Data engineering</li>
+  <li>Tech (Frameworks, Cloud Platforms….)</li>
+  <li>Personal Finance (Sub reddits, Blogs)</li>
+  <li>Journalism (Belling cat…)</li>
+  <li>Nature (Sustainability, Gardening, Outdoor leisure…)</li>
+</ul>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<p>This would help me to have some dedicated spaces for each of my interest.</p>
 
-<p>Check out the <a href="http://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>john</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated. Something.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-13.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-13.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Is Intelligence Enough</title><link href="http://localhost:4000/affiliates-jekyll-theme/is-intelligence-enough/" rel="alternate" type="text/html" title="Is Intelligence Enough" /><published>2024-04-12T00:00:00+00:00</published><updated>2024-04-12T00:00:00+00:00</updated><id>http://localhost:4000/affiliates-jekyll-theme/is-intelligence-enough</id><content type="html" xml:base="http://localhost:4000/affiliates-jekyll-theme/is-intelligence-enough/"><![CDATA[<p>Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.</p>
+<p>Once the domains are created you can select each on and click on the discover button to get started with the prepared bundles</p>
 
-<blockquote>
-  <p>We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.</p>
-</blockquote>
+<h1 id="bundles">Bundles</h1>
 
-<p>Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.</p>
+<p>For the Data engineering part I would use the following Bundles (each bundle stays grouped together).</p>
 
-<p>The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.</p>
+<ul>
+  <li>Data Engineering</li>
+  <li>Data Vendors</li>
+  <li>Data</li>
+  <li>Airflow</li>
+</ul>
 
-<p>The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?</p>
+<p>For the tech domain I would use:</p>
 
-<p>We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.</p>]]></content><author><name>sal</name></author><category term="Jekyll" /><category term="tutorial" /><summary type="html"><![CDATA[Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one’s self is very difficult.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-14.avif" /><media:content medium="image" url="http://localhost:4000/affiliates-jekyll-theme/assets/images/photo-researca-14.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<ul>
+  <li>Big Tech companies</li>
+  <li>Tech</li>
+  <li>Django News</li>
+  <li>WebTech</li>
+</ul>
+
+<p>For the other domain, there are no bundles prepared yet, so I will use the browser extension to remember all the cool site I visit, this way on my next connection to Researca I will be able to add it to a group.</p>
+
+<h1 id="conclusion">Conclusion</h1>
+
+<p>Researca is here to help you, and not become a source of stress or of doom scrolling, it’s better to have small and constrained domains than to include very broad source and get an endless stream of things to read. At any time you can remove a website if you’re not satisfied of it, even if you added it via the bundle feature.</p>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[Researca may be a bit complex but it’s important to understand how you can freely manage the way you get your new knowledge, in this post I will try to explain how I use Researca and what is my “optimized” way of setuping the tool.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-11.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-11.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Top RSS Feed Sources Data Engineer Should Follow to Stay Up-to-Date</title><link href="http://localhost:4000/must-read-for-data-engineers/" rel="alternate" type="text/html" title="Top RSS Feed Sources Data Engineer Should Follow to Stay Up-to-Date" /><published>2024-09-26T00:00:00+00:00</published><updated>2024-09-26T00:00:00+00:00</updated><id>http://localhost:4000/must-read-for-data-engineers</id><content type="html" xml:base="http://localhost:4000/must-read-for-data-engineers/"><![CDATA[<p>In the rapidly evolving field of data engineering, staying current with the latest trends, tools, and best practices is essential. From advancements in big data processing to the emergence of new data management tools, data engineers need to stay informed to remain competitive. One efficient way to keep up with industry developments is by subscribing to RSS feeds from reputable sources. Below is a curated list of the best RSS feed sources for data engineers. These resources cover everything from in-depth technical guides to the latest industry news, ensuring you have a well-rounded understanding of the field.</p>
+
+<hr />
+
+<h3 id="best-rss-feed-sources-for-data-engineers">Best RSS Feed Sources for Data Engineers</h3>
+
+<ul>
+  <li>
+    <p><strong>Towards Data Science</strong></p>
+
+    <p>An excellent resource hosted on Medium, Towards Data Science covers a range of topics relevant to data engineers, from technical tutorials to insights on industry trends. The RSS feed provides regular updates on big data processing, machine learning, and data engineering workflows.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://towardsdatascience.com/feed</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Data Engineering Weekly</strong></p>
+
+    <p>This weekly newsletter is specifically focused on data engineering. It includes articles, news, and job opportunities, handpicked to keep data engineers informed. The RSS feed is a great addition to any aggregator for a digestible, once-a-week update on essential developments.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://www.dataengineeringweekly.com/feed</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>The Data Engineering Podcast</strong></p>
+
+    <p>This podcast explores tools, techniques, and technologies used by data engineers to manage and process data. The RSS feed offers a convenient way to catch new episodes covering real-world insights from industry experts and practitioners.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://serve.podhome.fm/rss/1c0357c0-6aba-5766-a2d5-2090d8dab6bc</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Google Cloud Blog (Data Analytics)</strong></p>
+
+    <p>For data engineers working with cloud infrastructure, the Google Cloud Blog’s Data Analytics section is a valuable resource. It covers topics like data migration, cloud-based data warehousing, and advanced data analytics.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://cloudblog.withgoogle.com/rss/</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>AWS Big Data Blog</strong></p>
+
+    <p>Amazon Web Services’ (AWS) Big Data Blog shares insights into AWS tools, tips, and case studies in data engineering. As AWS is widely used in the industry, this feed is essential for data engineers focusing on cloud-native data solutions.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://aws.amazon.com/blogs/big-data/feed/</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>Databricks Engineering Blog</strong></p>
+
+    <p>Databricks is a popular platform for data engineering, and their blog often publishes deep dives into Spark, MLflow, and other tools. The RSS feed is a must for data engineers seeking practical insights into building robust data pipelines.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://databricks.com/feed</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>KDNuggets</strong></p>
+
+    <p>KDNuggets is a well-known site for data science and big data. The blog covers tools, tutorials, and industry news that are valuable for both data scientists and engineers. Their RSS feed provides access to a wealth of knowledge for data professionals at all levels.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://www.kdnuggets.com/feed</code></li>
+    </ul>
+  </li>
+  <li>
+    <p><strong>The Apache Software Foundation Blog</strong></p>
+
+    <p>The Apache Foundation maintains a variety of projects essential for data engineering, including Hadoop, Kafka, and Spark. The Apache blog’s RSS feed provides updates on new releases, patches, and innovations within the Apache ecosystem.</p>
+
+    <ul>
+      <li><strong>RSS Feed URL:</strong> <code>https://news.apache.org/rss</code></li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="conclusion">Conclusion</h3>
+
+<p>Keeping up with the latest in data engineering is vital to growing and maintaining your skills in this dynamic field. By subscribing to these RSS feeds, data engineers can streamline their news sources, ensuring they receive timely updates on best practices, tools, and technologies that impact their work. From dedicated blogs on Spark and cloud platforms to industry newsletters, these resources are designed to empower data engineers with the knowledge they need to excel. Start adding these sources to your RSS feed aggregator today to stay ahead in the world of data engineering!</p>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[In the rapidly evolving field of data engineering, staying current with the latest trends, tools, and best practices is essential. From advancements in big data processing to the emergence of new data management tools, data engineers need to stay informed to remain competitive. One efficient way to keep up with industry developments is by subscribing to RSS feeds from reputable sources. Below is a curated list of the best RSS feed sources for data engineers. These resources cover everything from in-depth technical guides to the latest industry news, ensuring you have a well-rounded understanding of the field.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-3.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-3.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Mastering the Repetition Curve: A Key to Effective Learning</title><link href="http://localhost:4000/repetition-curve/" rel="alternate" type="text/html" title="Mastering the Repetition Curve: A Key to Effective Learning" /><published>2024-09-26T00:00:00+00:00</published><updated>2024-09-26T00:00:00+00:00</updated><id>http://localhost:4000/repetition-curve</id><content type="html" xml:base="http://localhost:4000/repetition-curve/"><![CDATA[<h2 id="introduction">Introduction</h2>
+
+<p>In the world of learning and memory, the <strong>repetition curve</strong> is a concept that plays a 
+crucial role in helping us retain new information over time. Known also as 
+<strong>spaced repetition</strong>, this theory suggests that by revisiting information at specific 
+intervals, learners can reinforce their understanding and memory. But is this a widely 
+accepted approach, and why is it essential to remember the repetition curve during your 
+learning process? In this article, we’ll break down the science behind the repetition curve,
+ explore its acceptance in educational research, and highlight how it can transform 
+ the way you learn.</p>
+
+<h2 id="what-is-the-repetition-curve">What Is the Repetition Curve?</h2>
+
+<p><img src="/assets/images/forgetting_curve.png" alt="alt text" title="Forgetting curve" /></p>
+
+<p>The repetition curve is based on the principle that our 
+<strong>memory retention diminishes over time</strong>—a concept known as the <em>forgetting curve</em>. 
+By revisiting material periodically, we interrupt this forgetting process, gradually moving
+ the information into our long-term memory.</p>
+
+<p>Here’s how the repetition curve works:</p>
+
+<ul>
+  <li><strong>Initial Learning</strong>: When you first encounter new information, your brain encodes it into 
+short-term memory.</li>
+  <li><strong>Decay Begins</strong>: Without reinforcement, memory retention of that information starts to 
+decrease. This decline happens faster for complex or novel material.</li>
+  <li><strong>Spaced Review</strong>: By reviewing information at increasing intervals (for example, after 
+one day, three days, one week, and one month), you effectively disrupt the forgetting curve,
+ strengthening memory retention each time.</li>
+  <li><strong>Long-term Retention</strong>: Over time, this spaced repetition leads to more durable, long-term
+ retention, allowing you to recall information with greater ease.</li>
+</ul>
+
+<p>This structured repetition contrasts with simple rote memorization and has become the 
+foundation for many learning techniques and tools, such as <strong>flashcards</strong> and
+ <strong>spaced repetition software</strong> (SRS) like Anki or Quizlet.</p>
+
+<h2 id="why-the-repetition-curve-matters-in-learning">Why the Repetition Curve Matters in Learning</h2>
+
+<p>Understanding and applying the repetition curve offers numerous benefits in learning, 
+particularly in areas that require strong memory retention, such as language learning, 
+medicine, and STEM fields. Here are a few key reasons why remembering this concept is 
+important for learners:</p>
+
+<ul>
+  <li><strong>Improves Retention</strong>: By applying the repetition curve, learners can retain information
+ for longer periods, reducing the need for constant review and preventing knowledge “decay.”</li>
+  <li><strong>Saves Time</strong>: Instead of reviewing all material constantly, you can optimize study time 
+by only revisiting material as the curve suggests, making learning more efficient.</li>
+  <li><strong>Boosts Confidence</strong>: Reinforcing memory through spaced repetition increases confidence 
+as learners notice their improved ability to recall information accurately.</li>
+  <li><strong>Builds Foundational Knowledge</strong>: Long-term retention of foundational knowledge enables 
+more advanced learning, as learners can draw on previously learned material without hesitation.</li>
+</ul>
+
+<p>Incorporating the repetition curve into your study habits can not only help you retain 
+information but also improve overall learning efficiency and confidence.</p>
+
+<h2 id="is-the-repetition-curve-accepted-or-contested">Is the Repetition Curve Accepted or Contested?</h2>
+
+<p>The repetition curve is widely accepted within cognitive psychology and education as an 
+effective memory enhancement strategy. However, as with many theories, there are some 
+points of contention and areas for further research:</p>
+
+<ul>
+  <li><strong>Strong Support</strong>: Research in memory and cognitive science supports spaced repetition as 
+an effective learning strategy. Numerous studies demonstrate that spaced reviews improve 
+retention, and many education systems integrate this approach into learning programs.</li>
+  <li><strong>Points of Debate</strong>: Some researchers debate the optimal spacing intervals, suggesting 
+that the intervals may vary depending on the complexity of the information, the individual’s 
+learning style, and their prior knowledge of the subject.</li>
+  <li><strong>Ongoing Research</strong>: Advances in neuroscience continue to study the intricacies of the 
+repetition curve, including the best intervals for memory reinforcement and how individual 
+differences might impact its effectiveness. Some areas of learning, such as creative skills, 
+may benefit from alternative repetition patterns.</li>
+</ul>
+
+<p>Despite these debates, the repetition curve remains a respected and frequently applied method 
+for improving long-term retention.</p>
+
+<h2 id="how-to-apply-the-repetition-curve-in-your-learning-process">How to Apply the Repetition Curve in Your Learning Process</h2>
+
+<p>Applying the repetition curve to your studies can be simple with the right techniques. 
+Here are some strategies:</p>
+
+<ul>
+  <li><strong>Use Spaced Repetition Software</strong>: Apps like Anki, Quizlet, and SuperMemo use algorithms to
+ set the optimal review intervals, making it easy to integrate spaced repetition into your 
+ study routine.</li>
+  <li><strong>Set a Review Schedule</strong>: If you prefer to avoid apps, set a schedule based on the 
+repetition curve. For example, review new material after 1 day, then after 3 days, then 7 days,
+ and so forth.</li>
+  <li><strong>Combine with Active Recall</strong>: Actively recalling information (like testing yourself) 
+during each review session strengthens memory retention even more effectively than passive 
+review.</li>
+  <li><strong>Prioritize Core Concepts</strong>: Focus on reviewing core material to ensure it becomes part of 
+your long-term knowledge base, which will make more advanced learning smoother.</li>
+  <li><strong>Adjust Frequency as Needed</strong>: Everyone’s memory retention is unique, so experiment with 
+intervals until you find what works best for you. Consistency is key.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The repetition curve offers a powerful framework for enhancing memory retention and learning 
+efficiency. By following the principles of spaced repetition, you can strengthen your memory,
+ save valuable study time, and build a foundation of knowledge that’s resilient to the 
+ passage of time. While some debates around optimal intervals and individual differences 
+ remain, the repetition curve is widely accepted and has helped countless learners retain 
+ information more effectively. Embracing this approach can revolutionize your learning, 
+ no matter the subject.</p>
+
+<h2 id="bonus-did-you-know">Bonus: Did You Know?</h2>
+
+<p>German psychologist <strong>Hermann Ebbinghaus</strong>, who discovered the forgetting curve in the 19th 
+century, was the first to document the benefits of spaced repetition. His groundbreaking 
+research paved the way for modern learning techniques that leverage the repetition curve, 
+helping us remember information better and for longer!</p>
+
+<h2 id="sources">Sources</h2>
+
+<ul>
+  <li><a href="https://www.td.org/content/atd-blog/dont-forget-the-ebbinghaus-forgetting-curve">Don’t forget the Ebbinghaus’s curve</a></li>
+  <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6607761/">Spaced Learning Enhances Episodic Memory by Increasing Neural Pattern Similarity Across Repetitions</a></li>
+  <li><a href="https://hbr.org/2024/09/how-to-keep-learning-at-work-even-when-you-feel-fried">How to Keep Learning at Work — Even When You Feel Fried</a></li>
+</ul>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[Introduction]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-9.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-9.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Unlocking True Expertise: The 10,000-Hour Rule and the Right Way to Practice</title><link href="http://localhost:4000/10k-hours-rule/" rel="alternate" type="text/html" title="Unlocking True Expertise: The 10,000-Hour Rule and the Right Way to Practice" /><published>2024-09-01T00:00:00+00:00</published><updated>2024-09-01T00:00:00+00:00</updated><id>http://localhost:4000/10k-hours-rule</id><content type="html" xml:base="http://localhost:4000/10k-hours-rule/"><![CDATA[<p>Why do some people excel in their fields, while others, despite years of experience, remain only moderately skilled? Achieving true expertise, as highlighted by the 10,000-hour rule, is often attributed to not just the amount of time you dedicate but also to the <em>quality</em> of your practice. This concept, popularized by psychologist Anders Ericsson and later by Malcolm Gladwell in <em>Outliers</em>, suggests that anyone can achieve mastery with intentional, consistent, and structured practice. In this article, we’ll explore why 10,000 hours of deliberate practice is essential for becoming an expert and how to structure those hours for the best results.</p>
+
+<h2 id="what-is-the-10000-hour-rule">What is the 10,000-Hour Rule?</h2>
+
+<p>The 10,000-hour rule is a benchmark that refers to the time investment required to reach a world-class level in any skill. However, it’s not just about putting in time—it’s about engaging in <strong>deliberate practice</strong>, which focuses on pushing yourself beyond your comfort zone, constantly improving, and honing specific skills. Here’s a closer look at how to make the most of your practice hours.</p>
+
+<h2 id="key-steps-to-achieve-true-expertise">Key Steps to Achieve True Expertise</h2>
+
+<h3 id="1-focus-on-deliberate-practice">1. <strong>Focus on Deliberate Practice</strong></h3>
+
+<ul>
+  <li><strong>Set Specific Goals</strong>: Instead of practicing broadly, break down the skill into components and set measurable goals. For example, a musician might focus on mastering a challenging section of a piece before attempting the entire composition.</li>
+  <li><strong>Seek Immediate Feedback</strong>: Getting feedback from a coach, mentor, or peers helps correct errors early and ensures you’re on the right track.</li>
+  <li><strong>Challenge Your Weaknesses</strong>: True growth comes from addressing areas of improvement rather than staying comfortable with what you already know. Identify and work on your weaknesses.</li>
+</ul>
+
+<h3 id="2-maintain-consistency-over-intensity">2. <strong>Maintain Consistency Over Intensity</strong></h3>
+
+<ul>
+  <li><strong>Daily Practice</strong>: Rather than intense bursts of effort, aim for consistent, focused sessions. This could mean dedicating an hour each day instead of sporadic, lengthy sessions.</li>
+  <li><strong>Avoid Burnout</strong>: Pushing too hard can lead to exhaustion. Instead, work at a sustainable pace that allows for regular rest and recovery. This balance helps you stay engaged and motivated over the long haul.</li>
+</ul>
+
+<h3 id="3-track-your-progress">3. <strong>Track Your Progress</strong></h3>
+
+<ul>
+  <li><strong>Document Your Journey</strong>: Keep a journal or log to record your achievements, setbacks, and lessons learned. This can help you stay motivated and provides a clear picture of how far you’ve come.</li>
+  <li><strong>Analyze Your Results</strong>: Review your progress regularly to identify patterns, note areas that need more attention, and make necessary adjustments to your practice routine.</li>
+</ul>
+
+<h3 id="4-master-the-art-of-reflection">4. <strong>Master the Art of Reflection</strong></h3>
+
+<ul>
+  <li><strong>Self-Critique</strong>: After each practice session, take time to reflect on what went well and what didn’t. This allows you to adjust your approach for better results.</li>
+  <li><strong>Mindfulness</strong>: Practice mindfulness to improve concentration and prevent distractions. This level of focus will help you get the most out of each session.</li>
+</ul>
+
+<h3 id="5-engage-with-a-mentor-or-coach">5. <strong>Engage with a Mentor or Coach</strong></h3>
+
+<ul>
+  <li><strong>Guided Practice</strong>: A mentor can help you navigate challenges and provide expert insights that accelerate your growth.</li>
+  <li><strong>Accountability</strong>: Working with someone else creates accountability and ensures you’re sticking to your practice schedule and pushing your limits.</li>
+</ul>
+
+<h3 id="6-embrace-the-plateau-phases">6. <strong>Embrace the “Plateau” Phases</strong></h3>
+
+<ul>
+  <li><strong>Understand Natural Plateaus</strong>: At certain points, you might feel stuck or see little progress. This is normal. These plateaus often precede significant breakthroughs.</li>
+  <li><strong>Keep Pushing</strong>: Instead of giving up, double down on your efforts or try new methods. Often, persistence during these plateaus leads to advanced skills and a deeper understanding.</li>
+</ul>
+
+<h2 id="why-quality-matters-over-quantity">Why Quality Matters Over Quantity</h2>
+
+<p>While the 10,000-hour rule emphasizes the importance of time, quality is the secret ingredient to achieving expertise. Simply spending hours passively practicing or repeating what you already know can create bad habits and limit progress. It’s the focused, challenging, and intentional approach that makes a difference. Emphasizing quality practice can actually speed up your journey to expertise by maximizing the effectiveness of each hour.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>The journey to mastery requires dedication, focus, and the right approach to practice. While the 10,000-hour rule gives a rough timeline, it’s the deliberate and structured practice within these hours that truly leads to expertise. By setting clear goals, challenging your weaknesses, reflecting on your progress, and seeking guidance, you can make each hour count. Remember, achieving expertise is not just a matter of time but a journey of continual growth and learning.</p>
+
+<h2 id="bonus-fascinating-fact-about-the-10000-hour-rule">Bonus: Fascinating Fact about the 10,000-Hour Rule</h2>
+
+<p>Did you know that the concept of the 10,000-hour rule stems from the study of elite musicians? In his research, Anders Ericsson found that the top violinists at Berlin’s music academy had practiced approximately 10,000 hours by the time they were 20, setting them apart from their peers. This led to a broader realization that excellence in any field—sports, art, writing, or business—follows a similar path of dedicated practice.</p>
+
+<h2 id="sources">Sources</h2>
+
+<ul>
+  <li>Coyle, Daniel. “The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s How” is a very interesting read on this topic, you can find the first chapter for free <a href="https://danielcoyle.com/excerpt-talent-code/">here</a></li>
+</ul>]]></content><author><name>Constant</name></author><category term="knowledge" /><summary type="html"><![CDATA[Why do some people excel in their fields, while others, despite years of experience, remain only moderately skilled? Achieving true expertise, as highlighted by the 10,000-hour rule, is often attributed to not just the amount of time you dedicate but also to the quality of your practice. This concept, popularized by psychologist Anders Ericsson and later by Malcolm Gladwell in Outliers, suggests that anyone can achieve mastery with intentional, consistent, and structured practice. In this article, we’ll explore why 10,000 hours of deliberate practice is essential for becoming an expert and how to structure those hours for the best results.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-7.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-7.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Researca vs. Traditional Knowledge Management: Why RSS-Powered Platforms Are the Future</title><link href="http://localhost:4000/rss-based-learning/" rel="alternate" type="text/html" title="Researca vs. Traditional Knowledge Management: Why RSS-Powered Platforms Are the Future" /><published>2024-05-07T00:00:00+00:00</published><updated>2024-05-07T00:00:00+00:00</updated><id>http://localhost:4000/rss-based-learning</id><content type="html" xml:base="http://localhost:4000/rss-based-learning/"><![CDATA[<p>In today’s digital world, staying updated with the latest research and industry 
+insights can feel overwhelming. Traditional knowledge management systems, often reliant on
+ manual uploads and outdated filing structures, struggle to keep up with the sheer volume
+ and speed of information. Enter <strong>RSS-powered platforms</strong>—a game-changer for knowledge
+ management. These platforms offer dynamic, real-time information feeds tailored to 
+ specific interests and topics, helping individuals and organizations streamline their
+ learning. In this post, we’ll explore the limitations of traditional knowledge management,
+ how RSS feeds work, and why RSS-powered platforms are positioned as the future of knowledge 
+management.</p>
+
+<h2 id="traditional-knowledge-management-limitations-and-challenges">Traditional Knowledge Management: Limitations and Challenges</h2>
+
+<p>Traditional knowledge management (KM) systems typically involve centrally-stored documents, 
+organized taxonomies, and manual data updates. While these systems have been a staple in 
+organizational knowledge sharing, they have notable limitations in the digital age:</p>
+
+<ul>
+  <li><strong>Static Content</strong>: Most traditional KM systems rely on static files, such as PDFs or stored 
+articles, that do not update automatically when new information becomes available.</li>
+  <li><strong>Manual Updating</strong>: Keeping information current requires consistent manual input, which is 
+time-consuming and susceptible to human error.</li>
+  <li><strong>Limited Customization</strong>: Traditional systems often lack the flexibility to cater to 
+individual learning paths, which can leave some users with irrelevant or outdated material.</li>
+  <li><strong>Difficult to Scale</strong>: As the volume of knowledge grows, traditional KM systems can become 
+overwhelming, leading to poorly organized and less accessible information.</li>
+</ul>
+
+<p>These challenges leave room for more dynamic and automated solutions like RSS-powered 
+platforms that deliver real-time updates from diverse sources.</p>
+
+<h2 id="what-are-rss-feeds-and-how-do-they-work">What Are RSS Feeds and How Do They Work?</h2>
+
+<p><strong>RSS (Really Simple Syndication)</strong> is a format for delivering regularly updated web content, 
+like blog posts or news articles, directly to users. Rather than manually visiting each site, 
+users subscribe to an RSS feed and receive updates whenever new content is published. 
+Here’s how an RSS feed works:</p>
+
+<ol>
+  <li><strong>Content Source</strong>: Websites that support RSS create feed URLs for specific topics or 
+categories.</li>
+  <li><strong>Subscription</strong>: Users subscribe to these feeds using an RSS reader or RSS-enabled 
+knowledge platform.</li>
+  <li><strong>Real-Time Updates</strong>: As new content is published, the RSS feed pushes updates 
+directly to subscribers in real-time.</li>
+  <li><strong>Centralized Access</strong>: All content appears in one location (the RSS reader), allowing 
+users to easily browse, search, and organize the latest information across various topics.</li>
+</ol>
+
+<p>By providing centralized and real-time content, RSS-powered platforms effectively eliminate 
+the need for manual information gathering and allow users to stay updated with minimal effort.</p>
+
+<h2 id="why-rss-powered-platforms-are-the-future-of-knowledge-management">Why RSS-Powered Platforms Are the Future of Knowledge Management</h2>
+
+<p>RSS-powered platforms are some niche tools yet very effective.
+Here’s why these platforms represent the future:</p>
+
+<h3 id="1-real-time-information">1. <strong>Real-Time Information</strong></h3>
+
+<p>RSS feeds deliver new information as soon as it’s published. For researchers and professionals 
+who need timely data and insights, RSS ensures they stay up-to-date without constantly 
+checking multiple sites or sources. Traditional KM systems simply cannot match this level 
+of immediacy.</p>
+
+<h3 id="2-customized-content">2. <strong>Customized Content</strong></h3>
+
+<p>RSS-powered platforms allow users to subscribe only to feeds that are relevant to them, 
+offering personalized content streams. This tailored approach ensures that users receive 
+highly relevant information without the clutter often associated with traditional KM systems,
+or the issues related to using Social Networks.</p>
+
+<h3 id="3-increased-efficiency-and-productivity">3. <strong>Increased Efficiency and Productivity</strong></h3>
+
+<p>The automation provided by RSS feeds reduces the time and effort spent manually searching 
+for updates. By having all new content appear in one place, users can streamline their 
+research and focus on high-value tasks. This is especially beneficial in environments 
+where rapid decision-making is required.</p>
+
+<h3 id="4-easily-scalable">4. <strong>Easily Scalable</strong></h3>
+
+<p>As an organization or individual’s knowledge needs expand, an RSS-powered platform scales 
+effortlessly. Users can add or remove feeds based on evolving interests and requirements, 
+ensuring that they always have access to pertinent, updated information without overwhelming 
+the system.</p>
+
+<h2 id="implementing-rss-feeds-in-knowledge-management">Implementing RSS Feeds in Knowledge Management</h2>
+
+<p>To leverage RSS in your knowledge management strategy, consider these steps:</p>
+
+<ul>
+  <li><strong>Choose an RSS Reader or Platform</strong>: Popular RSS readers include Feedly, Inoreader or 
+NewsBlur. Some knowledge management platforms also integrate RSS functionalities like Researca.</li>
+  <li><strong>Curate Trusted Sources</strong>: Subscribe to RSS feeds from trusted websites, 
+industry journals, and research databases that align with your focus areas.</li>
+  <li><strong>Organize Your Feeds</strong>: Use tags or folders to categorize feeds by topic for easier 
+navigation.</li>
+  <li><strong>Encourage Team Usage</strong>: Integrate your RSS platform with team tools, like Slack or 
+Microsoft Teams, to encourage collaborative knowledge sharing.</li>
+  <li><strong>Regularly Review and Adjust</strong>: Adjust your feed subscriptions as your projects and areas 
+of interest evolve to keep your content current and relevant.</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Traditional knowledge management systems have served organizations well but are increasingly 
+outpaced by today’s digital information demands. RSS-powered platforms offer a 
+forward-thinking solution that brings real-time, customizable content directly to users, 
+making it easier to stay informed and collaborate effectively. By integrating RSS feeds into 
+knowledge management practices, organizations and individuals can boost productivity, keep up 
+with rapid information changes, and streamline their learning process. As information 
+continues to grow and diversify, RSS-powered knowledge management may very well become the 
+standard.</p>
+
+<h2 id="bonus-did-you-know">Bonus: Did You Know?</h2>
+
+<p>RSS feeds were initially created in the 1990s to help web users keep up with frequent website 
+updates. Although RSS feeds briefly fell out of popularity with the rise of social media, 
+their utility in knowledge management and content aggregation has brought them back into the 
+spotlight as indispensable tools for modern information consumption.</p>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[In today’s digital world, staying updated with the latest research and industry insights can feel overwhelming. Traditional knowledge management systems, often reliant on manual uploads and outdated filing structures, struggle to keep up with the sheer volume and speed of information. Enter RSS-powered platforms—a game-changer for knowledge management. These platforms offer dynamic, real-time information feeds tailored to specific interests and topics, helping individuals and organizations streamline their learning. In this post, we’ll explore the limitations of traditional knowledge management, how RSS feeds work, and why RSS-powered platforms are positioned as the future of knowledge management.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-4.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-4.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Researca detailed feature list</title><link href="http://localhost:4000/researca-features/" rel="alternate" type="text/html" title="Researca detailed feature list" /><published>2024-04-14T00:00:00+00:00</published><updated>2024-04-14T00:00:00+00:00</updated><id>http://localhost:4000/researca-features</id><content type="html" xml:base="http://localhost:4000/researca-features/"><![CDATA[<p>Here is a detailed list of the features of Researca, the knowledge management platform built on top of an RSS agregator.</p>
+
+<ul>
+  <li>Starter features are marked with a 1️⃣</li>
+  <li>Advanced features are marked with a 2️⃣</li>
+</ul>
+
+<h1 id="customised-knowledge">Customised knowledge</h1>
+
+<p>Using Researca you can build your own knowledge base, using the sources you select.</p>
+
+<ul>
+  <li>Follow unlimited bundles of sources (1️⃣)</li>
+  <li>Reader’s mode (1️⃣)</li>
+  <li>Save the articles you like for later use (1️⃣)</li>
+  <li>Organise your multiple source in “domains” because we all have multiple interests (1️⃣)</li>
+  <li>Add unlimited custom feeds (1️⃣)</li>
+</ul>
+
+<h1 id="discover-learn-remember">Discover, learn, remember</h1>
+
+<p>Part of our product is ensuring you remember what you read, so you can use this knowledge at another time.</p>
+
+<ul>
+  <li>Add articles to a learning path (<em>soon</em> 1️⃣)</li>
+  <li>Generate flash card for article to remember them (<em>soon</em> 2️⃣)</li>
+  <li>Audio transcription using AI (2️⃣)</li>
+</ul>
+
+<h1 id="search-filter-tag">Search, filter, tag</h1>
+
+<p>Avoid getting overwhelm by the information collected and read.</p>
+
+<ul>
+  <li>Search through our database of articles (<em>soon</em>)</li>
+  <li>Filters and ban words to reduce the scope of your findings (<em>soon</em>)</li>
+  <li>Automatically tag articles to make discoverability easier (<em>soon</em>)</li>
+  <li>Summarize articles using AI (<em>soon</em>)</li>
+</ul>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[Here is a detailed list of the features of Researca, the knowledge management platform built on top of an RSS agregator.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-14.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-14.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Researca roadmap</title><link href="http://localhost:4000/researca-roadmap/" rel="alternate" type="text/html" title="Researca roadmap" /><published>2024-03-12T00:00:00+00:00</published><updated>2024-03-12T00:00:00+00:00</updated><id>http://localhost:4000/researca-roadmap</id><content type="html" xml:base="http://localhost:4000/researca-roadmap/"><![CDATA[<p>Here is an overview of the ongoing Researca Roadmap, you will find what is done and what is planned.</p>
+
+<h1 id="2024">2024</h1>
+
+<ul>
+  <li><strong>Basic features:</strong>  Read feeds, Track them, Save…
+    <ul>
+      <li>✔️ Totally finished, on June 2024</li>
+    </ul>
+  </li>
+  <li><strong>Basic Crawler:</strong> A crawler to ensure we get updates, on the shortest time and for the lowest CPU cost possible.
+    <ul>
+      <li>✔️ Totally finished on June 2024</li>
+    </ul>
+  </li>
+  <li><strong>Browser Extension:</strong> Browser extension to let you track feed, and save articles
+    <ul>
+      <li>🛠️ A first version is working on Firefox on November 2024</li>
+    </ul>
+  </li>
+  <li><strong>Reader’s mode:</strong> Remove ads and try to parse articles on a well readable format.
+    <ul>
+      <li>✔️ Totally finished on October 2024</li>
+    </ul>
+  </li>
+  <li><strong>Audio transcription:</strong> using AI, for more natural voice and feel
+    <ul>
+      <li>🛠️ A first version is working on November 2024</li>
+    </ul>
+  </li>
+  <li><strong>Multi domain mode:</strong>
+    <ul>
+      <li>✔️ Totally finished on July 2024</li>
+      <li>This lets users have multiple different domains they are interested in, without having all the things on the same feed.</li>
+    </ul>
+  </li>
+  <li><strong>Manage feeds:</strong> Unfollow, disable feeds and monitor their status to ensuring they keep publishing
+    <ul>
+      <li>🛠️ Not finished yet, work around status is not done.</li>
+    </ul>
+  </li>
+  <li><strong>Bundles:</strong> Bundles are a group of feed, it’s part of our solution to make it easier to use Rss feed
+    <ul>
+      <li>✔️ Totally finished on September 2024</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="2025">2025</h1>
+
+<ul>
+  <li><strong>Improved crawler:</strong> Handle proxy, captcha and automatically estimate a crawling frequency to avoid hitting sites too often.
+    <ul>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+  <li><strong>Podcastify:</strong> Transform any article into a podcast.
+    <ul>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+  <li><strong>Automatic tagging:</strong> Using AI we want to be able to automatically tag articles this will be a first step towards search features.
+    <ul>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+  <li><strong>Search features:</strong> Full text search on articles you have saved, read, or dismissed.
+    <ul>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+  <li><strong>Track websites without RSS feeds:</strong> We need to make it easy to get updates for feed without RSS feeds
+    <ul>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+  <li><strong>Improve RSS feeds discoverability:</strong> Make it easier to discover and use RSS feeds
+    <ul>
+      <li>Extensions to track websites</li>
+      <li>Blog posts about sources</li>
+      <li>Easily add feed bundles from a blog post</li>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+  <li><strong>Curation content:</strong> Make it easier to regroup your articles in newsletters or blog post aimed for curation.
+    <ul>
+      <li>❌ Not started yet</li>
+    </ul>
+  </li>
+</ul>
+
+<p>If you want to see something prioritized or add new features do not hesitate to contact us.</p>]]></content><author><name>Constant</name></author><category term="experts" /><summary type="html"><![CDATA[Here is an overview of the ongoing Researca Roadmap, you will find what is done and what is planned.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/photo-researca-2.avif" /><media:content medium="image" url="http://localhost:4000/assets/images/photo-researca-2.avif" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

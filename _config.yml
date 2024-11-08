@@ -14,7 +14,7 @@ feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
 markdown: kramdown
-researca_url: https://researca.com/app/signin
+researca_url: https://app.researca.com/
 kramdown:
   syntax_highlighter_opts:
     disable: true
@@ -38,7 +38,7 @@ authors:
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  twitter: https://twitter.com/researca
   reddit: https://reddit.com/r/researca
 
 # Plugins
