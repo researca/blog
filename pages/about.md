@@ -9,6 +9,8 @@ Here is a breakdown of the features of Researca, to help you understand the impa
 
 ## Stay-up to date
 
+![Researca home page](/assets/images/browser_mainpage.png)
+
 Researca uses **RSS feed technology** to bring content from hundreds of websites to a single platform. Instead of jumping between sites, you can get the latest updates in one streamlined feed, saving you time and reducing distractions. 
 
 With Researca, you’ll benefit from:
@@ -24,6 +26,8 @@ One of Researca’s standout features is its ability to keep you **independent o
 - **Stay productive**: You can focus on genuine knowledge acquisition without the usual social media interruptions.
 - **Maintain data privacy**: Researca doesn’t track your behavior or share your data, offering a safer, more focused browsing experience.
 ## Learn and don't forget
+
+![Researca tablets layout](/assets/images/tablet_features_annotated.png)
 
 One of the most innovative aspects of Researca is its **knowledge management feature**. It enables you to create flashcards based on the content you consume, reinforcing what you've learned so it sticks over the long term. Here’s how it works:
 
