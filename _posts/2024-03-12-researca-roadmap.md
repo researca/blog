@@ -7,6 +7,8 @@ image: assets/images/photo-researca-2.avif
 
 Here is an overview of the ongoing Researca Roadmap, you will find what is done and what is planned.
 
+The Roadmap was updated on November 2024
+
 # 2024
 
 - **Basic features:**  Read feeds, Track them, Save…
@@ -29,6 +31,8 @@ Here is an overview of the ongoing Researca Roadmap, you will find what is done 
 
 # 2025
 
+- **Learning path:** Convert articles to flash cards and get quizzed to trigger repetition learning based on any webpage
+    - ❌ Not started yet
 - **Improved crawler:** Handle proxy, captcha and automatically estimate a crawling frequency to avoid hitting sites too often.
     - ❌ Not started yet
 - **Podcastify:** Transform any article into a podcast.
