@@ -24,7 +24,7 @@ Search Engine Optimization (SEO) is the practice of improving the visibility and
 
 3. **High-Quality Content**
    - Ensure your newsletter content is valuable, informative, and engaging. High-quality content is more likely to be shared and linked to, which can improve your SEO.
-   - Use tools like [Researca](https://www.researca.com) to aggregate the best content from various sources and generate engaging descriptions for your newsletter.
+   - Use tools like [Researca](https://researca.com) to aggregate the best content from various sources and generate engaging descriptions for your newsletter.
 
 4. **Internal and External Links**
    - Include relevant internal links to previous newsletter issues or related content on your website.
@@ -43,7 +43,7 @@ Search Engine Optimization (SEO) is the practice of improving the visibility and
 
 ### Leveraging AI for SEO
 
-AI tools can significantly enhance your SEO efforts. For instance, [Researca](https://www.researca.com) uses an RSS feed aggregator to help you discover the best content and an AI recommender to suggest the most relevant articles. Additionally, its LLM (Large Language Model) generates engaging descriptions and other parts of your newsletter issue, ensuring high-quality content that resonates with your audience.
+AI tools can significantly enhance your SEO efforts. For instance, [Researca](https://researca.com) uses an RSS feed aggregator to help you discover the best content and an AI recommender to suggest the most relevant articles. Additionally, its LLM (Large Language Model) generates engaging descriptions and other parts of your newsletter issue, ensuring high-quality content that resonates with your audience.
 
 ### Monitoring and Analytics
 
