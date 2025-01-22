@@ -3,7 +3,7 @@ layout: post
 title: "Maximize Newsletter Content Generation with Researca's AI-Driven RSS Aggregator & Recommender"
 slug: how-to-generate-content-for-your-newsletter
 lang: english
-image: assets/images/photo-researca-14.avif
+image: assets/images/photo-researca-24.avif
 extra: explain how you could generate the content using ChatGPT even building your own prompt but the issue would be that you have a generic and uninteresting newsletter. Explain why Researca content-centric approach is more efficient because you're reusing quality content you found via RSS feed of bloggers you trust to build your newsletter which makes it more engaging and genuine.
 ---
 ## How to Generate Content for Your Newsletter?

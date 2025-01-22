@@ -3,7 +3,7 @@ layout: post
 title: "Why Researca is the Best Newsletter Assistant for Content Discovery and Creation in 2024"
 slug: why-researcha-is-the-best-newsletter-assistant
 lang: english
-image: assets/images/photo-researca-14.avif
+image: assets/images/photo-researca-28.avif
 extra: While other tools are cool and can really help, researca is the only one where the content reside at the core of the newsletter building experience and this is why even with AI you can build quality and engaging newsletter
 ---
 ## Why Researca is the Best Newsletter Assistant?

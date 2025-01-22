@@ -3,7 +3,7 @@ layout: post
 title: "Top AI Newsletter Generator: Researca's RSS Aggregator & AI Recommender"
 slug: best-newsletter-ai-generator
 lang: english
-image: assets/images/photo-researca-14.avif
+image: assets/images/photo-researca-25.avif
 extra: speak about rasa.io and piktochart.com for the layout part. higlight that the generation of the content is fairly new and currently only researca does it.
 ---
 ## Best Newsletter AI Generators
