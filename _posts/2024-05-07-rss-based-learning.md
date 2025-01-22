@@ -19,7 +19,7 @@ management.
 
 Traditional knowledge management (KM) systems typically involve centrally-stored documents, 
 organized taxonomies, and manual data updates. While these systems have been a staple in 
-organizational knowledge sharing, they have notable limitations in the digital age:
+organizational knowledge sharing, they have notable limitations:
 
 - **Static Content**: Most traditional KM systems rely on static files, such as PDFs or stored 
 articles, that do not update automatically when new information becomes available.
