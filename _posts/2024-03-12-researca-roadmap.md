@@ -31,13 +31,19 @@ The Roadmap was updated on November 2024
 
 # 2025
 
+- **Summarization:** Create a quick summary of the article.
+    - 🛠️ First evaluation in progress
 - **Learning path:** Convert articles to flash cards and get quizzed to trigger repetition learning based on any webpage
+    - ❌ Not started yet
+- **Subscription to newsletter:** Subscribe to newsletter with a dedicated email address
     - ❌ Not started yet
 - **Improved crawler:** Handle proxy, captcha and automatically estimate a crawling frequency to avoid hitting sites too often.
     - ❌ Not started yet
 - **Podcastify:** Transform any article into a podcast.
     - ❌ Not started yet
 - **Automatic tagging:** Using AI we want to be able to automatically tag articles this will be a first step towards search features.
+    - ❌ Not started yet
+- **Improved newsletter generation:**
     - ❌ Not started yet
 - **Search features:** Full text search on articles you have saved, read, or dismissed.
     - ❌ Not started yet
